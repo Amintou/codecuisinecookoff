@@ -1,0 +1,2 @@
+# codecuisinecookoff
+Some excercises
